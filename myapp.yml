@@ -1,5 +1,4 @@
 serveruri: http://www.google.com
-description: This is a dev configuration for application myapp
 configObject:
    field1: awesome
    field2: bad
