@@ -3,4 +3,4 @@ description: This is a dev configuration for application myapp
 configObject:
    field1: awesome
    field2: bad
-c: s
+c: '{cypher} b9907fb7c9812f781c173fc6558d31bbd3a52a129fd8bf1fc2c405ec9b9bb016'
