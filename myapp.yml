@@ -4,3 +4,4 @@ configObject:
    field1: awesome
    field2: bad
 c: '{cipher}3d628f34e433060b56a0124d9a22270359532d3650ab4bd46cf08c215fa12c93'
+secret: '{cipher}3d628f34e433060b56a0124d9a22270359532d3650ab4bd46cf08c215fa12c93'
