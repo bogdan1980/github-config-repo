@@ -1,6 +1,6 @@
 serveruri: http://www.google.com
 configObject:
    field1: awesome
-   field2: bad
+   field2: ok 
 test: t244
 myprop: exquisite
