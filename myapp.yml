@@ -1,4 +1,5 @@
-serveruri: http://www.google.com 
+serveruri: http://www.google.com
 configObject:
    field1: awesome
    field2: odd
+sq: s
