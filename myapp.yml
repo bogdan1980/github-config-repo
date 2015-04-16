@@ -2,3 +2,4 @@ serveruri: http://www.google.net
 configObject:
    field1: awesome
    field2: odd
+ss: q
